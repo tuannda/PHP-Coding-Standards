@@ -1,0 +1,17 @@
+{
+    "name": "tuannda/php-coding-standards",
+    "description": "PHP Coding Standards",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TuanNDA",
+            "email": "tuannda@outlook.in",
+            "homepage": "https://github.com/tuannda",
+            "role": "Developer"
+        }
+    ],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.6"
+    }
+}
